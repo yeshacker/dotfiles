@@ -35,6 +35,7 @@ if ! zgen saved; then
     zgen oh-my-zsh plugins/fabric
     zgen oh-my-zsh plugins/fasd
     zgen oh-my-zsh plugins/gem
+    zgen oh-my-zsh plugins/git
     zgen oh-my-zsh plugins/git-extras
     zgen oh-my-zsh plugins/httpie
     zgen oh-my-zsh plugins/history
