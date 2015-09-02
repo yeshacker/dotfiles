@@ -1,0 +1,13 @@
+window console
+AABB
+AABB
+CCCC
+
+foc
+dir ~
+A run figlet "-"
+B run figlet "|"
+C run figlet "~"
+
+window irssi
+i
