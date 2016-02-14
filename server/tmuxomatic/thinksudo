@@ -1,0 +1,13 @@
+window console
+ABDD
+CCDD
+
+A run cd ~/work/flowapp-backend && supervisor -w ./ -e js app
+B run cd ~/work/flowapp-frontend && PORT=4000 supervisor -w ./ -e js app/server.js
+C run cd ~/work && ls -ahl
+D run cd ~/work
+
+window weechat
+X
+
+X run weechat
