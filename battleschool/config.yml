@@ -1,7 +1,0 @@
----
-sources:
-  local:
-  url:
-  git:
-    - name: 'osx'
-      repo: 'https://github.com/yeshacker/ansible-osx'
